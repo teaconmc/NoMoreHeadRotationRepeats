@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [ "LivingEntityMixin" ],
+  "package": "org.teacon.nmhrr.mixin",
+  "refmap": "area_control.refmap.json",
+  "injectors": { "defaultRequire": 1 }
+}
